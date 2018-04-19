@@ -9,7 +9,7 @@ Simple Blog API for NWEA application - a streamlined API for reading and writing
 
 ## Installation
 
-The Blog API requires Flask and flask_api libraries. The commands below are an example to configure and run the API from inside an empty working directory on a system that has the System Requirements installed:
+The Blog API requires Flask and flask_api libraries. The following commands will configure the API from inside an empty working directory on a system that already has the System Requirements installed:
 
 ```
 git clone https://github.com/mattabdou/nwea.git blogapi
